@@ -1,0 +1,13 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255, 244, 255);
+    font-weight: 400;
+}
+
+.carousel-item {
+    height: 80vh;
+}
+
+.light-purple {
+    background-color: #e9e9e9;
+}
+
